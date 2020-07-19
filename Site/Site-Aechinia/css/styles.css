@@ -1,0 +1,61 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+@font-face {
+    font-family: leahlee;
+    src: url("/css/fonts/212 Leahlee Sans.ttf");
+}
+@font-face {
+    font-family: Circular Std;
+    src: url("/css/fonts/CircularStd-Book.otf");
+}
+.div-header{
+    background-color: #3366ff;
+    font-family: leahlee;
+}
+.div-quem_somos{
+    background-color: #e1f5f5;
+    font-family: Circular Std;
+}
+.text-header{
+    color: #ff9999;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 50px;
+    margin-top: 40px;
+}
+.title-text-quem{
+    font-size: 43px;
+    font-weight: lighter
+}
+.content-text-quem{
+    font-size: 20px;
+    font-weight: lighter
+}
+.saiba-mais{
+    background-color: #0f8afd;
+    border-radius: 16px;
+    border-width: 0px;
+    font-family: Circular Std;
+    color: white;
+    margin-bottom: 120px;
+    width: 150px;
+    height: 35px;
+}
+.logo{
+    width:45px;
+}
+.div-oque-fazemos{
+    background-color: #3366ff;
+    font-family: leahlee;
+}
+.Telas{
+    width:100%;
+}
+.div-oque-e-ansiedade{
+    background-color: #e1f5f5;
+}
+.footer{
+    background-color: #e1f5f5;  
+}
